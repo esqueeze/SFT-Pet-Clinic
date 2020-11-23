@@ -1,7 +1,7 @@
 package guru.springframework.sftpetclinic.model;
 
 public class PetType {
-
+    //The Pet Type
     private String name;
 
     public String getName() {
