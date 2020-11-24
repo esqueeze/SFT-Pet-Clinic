@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>sft-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>sft-pet-clinic</name>
     <description>SFT Pet Clinic</description>
 
@@ -41,7 +41,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:esqueeze/SFT-Pet-Clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>sft-pet-clinic-0.0.2</tag>
   </scm>
 
 </project>
